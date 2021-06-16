@@ -86,3 +86,12 @@ p{
 .link:hover{
     background-color: floralwhite;
 }
+a{
+    text-decoration:none;
+}
+.article:hover{
+    color:darkblue;
+}
+html{
+    scroll-behavior:smooth;
+}
